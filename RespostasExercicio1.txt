@@ -1,0 +1,9 @@
+1. banco de dados como nome já diz é um grande conjunto de dados armazenado em uma ou mais tabelas
+
+2. Sistema de Gerenciamento de Banco de Dados (SGDB), seria os programas que permite o uso e a aplicação do banco de dados como por exemplo, mysql e Azure
+
+3 Um banco relacional se trata aonde suas tabelas possuem 1 ou mais relacionamentos entre elas, exemplo: Aluno - Matricula
+
+4. Velocidade de pesquisa pois busca somente em uma única tabela pelo fato de n haver relacionamento e desvantagem seria a falta de relacionamento que gera a falta de integridade de dados
+
+5. a vantagem é a integridade de dados por conta dos relacionamentos entre tabelas e a desvantagem é a falta de velocidade nas consultas quando se trata de um volume massivo de dados
